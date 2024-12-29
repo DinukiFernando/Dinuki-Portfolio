@@ -19,7 +19,7 @@ const Footer = () => {
         </button>
           
         ))}
-        <p data-aos='zoom-in'>All Right Resceved 2018</p>
+        <p data-aos='zoom-in'>All Right Resceved 2024</p>
       </footer>
     </>
   )

@@ -11,7 +11,7 @@ export const About = () => {
           {about.map((val) => (
             <>
               <div className='left' data-aos='fade-down-right'>
-                <img src={val.cover} style={about[0].style} alt="Dinuki" />
+                <img src="images/Dinuki.jpg" style={about[0].style} alt="Dinuki" />
               </div>
               <div className='right' data-aos='fade-down-left'>
                 <Heading title='About Me' />
